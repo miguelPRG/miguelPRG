@@ -9,7 +9,7 @@ In my free time, I like to jog, work out in the gym, study other skills of softw
 
 ## 📈 GitHub Stats
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelprg&show_icons=true&theme=radical)
+![Miguel's GitHub stats]([https://github-readme-stats.vercel.app/api?username=miguelprg&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=miguelprg&show_icons=true&theme=radical&cache_seconds=1800])
 
 ## Skills
 - **Frontend Development**: HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS
