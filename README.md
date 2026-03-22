@@ -1,31 +1,43 @@
-# Miguel Gonçalves
-As a Software Engineer, I always try to improve my knowledge of technology in general, with a particular interest in Software Development. Therefore, I intend to become a Full-Stack Developer, capable of creating any application inside and out. Although technology receives some negative reviews, I have always believed that it has the power to connect people and change the world and society for the better. How many problems in different areas are solved daily thanks to technological advances? Countless! This is my motivation for waking up early every morning: for every problem the world has, there is always a solution to be discovered. My job is to find it, whatever it takes!
+# 👤 Miguel Gonçalves
+Full-Stack Developer focused on building practical and scalable web applications. I enjoy turning ideas into real products, working across both frontend and backend, and continuously improving my technical skills through hands-on projects.
 
-## About Me
-I am a Full Stack Developer with strong knowledge of HTML, CSS, and JavaScript. I have experience working with frameworks such as React, Bootstrap, and TailwindCSS. Additionally, I am proficient in MySQL and MongoDB databases and have experience with DevOps tools like Docker and CI/CD.
+## 🧠 About Me
+I am a Full-Stack Developer with experience in building web applications using modern technologies. I focus on writing clean, maintainable code and developing solutions that solve real problems.
 
-## Hobbies
-In my free time, I like to jog, work out in the gym, study other skills of software development, or other ones like Digital Marketing, Entrepreneurship, etc. I also like to play guitar; I really love hard rock music.
+I am currently improving my skills through personal projects and practical experience, with the goal of becoming a highly capable developer in real-world environments.
+
+## 💻 Tech Stack
+- **Frontend:**: HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS
+- **Backend**: Node.js, Express.js, FastAPI
+- **Databases**: MySQL, MongoDB
+- **DevOps**: Docker, CI/CD
+
+## 🚀 What I’m Working On
+- Building full-stack applications with real-world use cases
+- Improving system design and backend architecture
+- Strengthening frontend UX and performance
+
+## 📂 Featured Projects
+- WeatherApp → API integration and frontend development
+- Best-Wines-EU → data-driven application and UI
 
 ## 📈 GitHub Stats
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelprg&show_icons=true&theme=radical&cache_seconds=1800)
 
-## Skills
-- **Frontend Development**: HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS
-- **Backend Development**: Node.js, Express.js
-- **Databases**: MySQL, MongoDB
-- **DevOps**: Docker, CI/CD
-
 ## Certifications
 - **Outsystems**: [Associative Reactive Developer Certification](https://www.outsystems.com/profile/kp80hywywq/overview)
 - **FreeCodeCamp**: [Web Responsive Design Certification](https://www.freecodecamp.org/certification/fcc6ac4beb5-c111-4e5c-aa39-55c7b6b70e2b/responsive-web-design)
+- **Advanced React**: [Coursera](https://www.coursera.org/)
+
+## Hobbies
+Outside of coding, I enjoy going to the gym, running, learning about entrepreneurship and digital marketing, and playing guitar. Big fan of hard rock.
 
 ## Social Media
 - **GitHub**: [Miguel Gonçalves](https://github.com/miguelgoncalves2024)
 - **LinkedIn**: [Miguel Gonçalves](https://www.linkedin.com/in/miguel-gon%C3%A7alves-087195169/)
 
 ## Contact Me
-- **Email**: [Miguel Gonçalves](mailto:miguelgoncalves2024@hotmail.com)
+- **Email**: [miguel@psafe365.com](mailto:miguel@psafe365.com)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just have a chat.
