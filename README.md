@@ -23,7 +23,7 @@ I am currently improving my skills through personal projects and practical exper
 
 ## 📈 GitHub Stats
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelprg&show_icons=true&theme=radical&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=miguelprg&show_icons=true&theme=radical" alt="Miguel's GitHub stats" />
 
 ## Certifications
 - **Outsystems**: [Associative Reactive Developer Certification](https://www.outsystems.com/profile/kp80hywywq/overview)
