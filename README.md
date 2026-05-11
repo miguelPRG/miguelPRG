@@ -23,8 +23,13 @@ I am currently improving my skills through personal projects and practical exper
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=miguelprg&show_icons=true&theme=radical" alt="Miguel's GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelPRG&show_icons=true&locale=en" alt="miguelPRG" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelPRG" alt="miguelPRG" />
+</p>
 ## Certifications
 - **Outsystems**: [Associative Reactive Developer Certification](https://www.outsystems.com/profile/kp80hywywq/overview)
 - **FreeCodeCamp**: [Web Responsive Design Certification](https://www.freecodecamp.org/certification/fcc6ac4beb5-c111-4e5c-aa39-55c7b6b70e2b/responsive-web-design)
