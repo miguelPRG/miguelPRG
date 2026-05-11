@@ -24,17 +24,18 @@ I am currently improving my skills through personal projects and practical exper
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelPRG&show_icons=true&locale=en" alt="miguelPRG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelPRG&show_icons=true&theme=radial&hide_border=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelPRG&theme=radial" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelPRG" alt="miguelPRG" />
-</p>
-## Certifications
-- **Outsystems**: [Associative Reactive Developer Certification](https://www.outsystems.com/profile/kp80hywywq/overview)
-- **FreeCodeCamp**: [Web Responsive Design Certification](https://www.freecodecamp.org/certification/fcc6ac4beb5-c111-4e5c-aa39-55c7b6b70e2b/responsive-web-design)
-- **Advanced React**: [Coursera](https://www.coursera.org/)
+---
 
+## 🎓 Certifications
+
+*   **Outsystems**: [Associate Reactive Developer Certification](https://www.outsystems.com/profile/kp80hywywq/overview)
+*   **FreeCodeCamp**: [Web Responsive Design Certification](https://www.freecodecamp.org/certification/fcc6ac4beb5-c111-4e5c-aa39-55c7b6b70e2b/responsive-web-design)
+*   **Advanced React**: [Coursera](https://www.coursera.org/)
 ## Hobbies
 Outside of coding, I enjoy going to the gym, running, learning about entrepreneurship and digital marketing, and playing guitar. Big fan of hard rock.
 
