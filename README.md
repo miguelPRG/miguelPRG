@@ -24,9 +24,9 @@ I am currently improving my skills through personal projects and practical exper
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguelPRG&show_icons=true&theme=radial&hide_border=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelPRG&theme=radial" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelPRG&show_icons=true&theme=radial&hide_border=false" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelPRG&theme=radial" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelPRG&layout=compact&theme=radial" alt="Linguagens mais usadas" height="180" />
 </p>
 
 ---
