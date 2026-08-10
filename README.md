@@ -24,12 +24,26 @@ I am currently improving my skills through personal projects and practical exper
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=miguelPRG&show_icons=true&theme=radial&hide_border=false" alt="GitHub Stats" height="180" />  <br>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelPRG&theme=dark" alt="GitHub Streak" height="180" />
-  <br>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=miguelPRG&layout=compact&theme=radial" alt="Linguagens mais usadas" height="180" />
+  <a href="https://github.com/miguelPRG">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelPRG&theme=tokyonight" alt="Estatísticas do GitHub de Miguel" />
+  </a>
+  <a href="https://github.com/miguelPRG?tab=repositories">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelPRG&theme=tokyonight" alt="Linguagens mais utilizadas por Miguel" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=miguelPRG&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições de Miguel" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelPRG&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="Gráfico de atividade de Miguel no GitHub" />
+  </a>
+</p>
+
 ---
 
 ## 🎓 Certifications
