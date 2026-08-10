@@ -38,12 +38,6 @@ I am currently improving my skills through personal projects and practical exper
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelPRG&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="Gráfico de atividade de Miguel no GitHub" />
-  </a>
-</p>
-
 ---
 
 ## 🎓 Certifications
