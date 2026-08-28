@@ -32,12 +32,6 @@ I am currently improving my skills through personal projects and practical exper
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=miguelPRG&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições de Miguel" />
-  </a>
-</p>
-
 ---
 
 ## 🎓 Certifications
