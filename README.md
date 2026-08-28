@@ -8,7 +8,7 @@ I am currently improving my skills through personal projects and practical exper
 
 ## 💻 Tech Stack
 - **Frontend:**: HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS
-- **Backend**: Node.js, Express.js, FastAPI
+- **Backend**: Node.js, Express.js, FastAPI, Next.js
 - **Databases**: MySQL, MongoDB
 - **DevOps**: Docker, CI/CD
 
